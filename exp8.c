@@ -1,3 +1,4 @@
+//8. Write a program to Implement Readers Writers Problem. 
 #include <pthread.h> 
 #include <semaphore.h> 
 #include <stdio.h> 

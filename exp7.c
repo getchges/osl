@@ -1,3 +1,4 @@
+//7. Write a program to Implement Producer Consumer Problem solution
 #include <stdio.h> 
 #include <stdlib.h> 
 
